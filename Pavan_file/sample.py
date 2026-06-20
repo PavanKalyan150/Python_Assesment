@@ -1,0 +1,1 @@
+print("For the sample purpose")
